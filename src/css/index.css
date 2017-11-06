@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.sub-content {
+    display: block;
+    width: 80%;
+    padding-left: 22%;
+    padding-top: 25px;
+}

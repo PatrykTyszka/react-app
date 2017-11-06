@@ -1,0 +1,32 @@
+.sidebar--li {
+    list-style-type: none;
+}
+
+.sidebar--ul {
+    text-align: center;
+    margin: 0;
+    padding: 50px 0 0 0;
+}
+
+.sidebar-el {
+    padding: 10px;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar-el.active {
+    color: white;
+    text-decoration: underline;
+}
+
+.sidebar-el:active {
+    color: gray;
+}
+
+.sidebar-content {
+    background: lightgray;
+    width: 20%;
+    position: fixed;
+    height: 100%;
+}
